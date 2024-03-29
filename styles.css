@@ -1,9 +1,16 @@
 li {
     margin-bottom: 10px;
-  }
+}
 
-  li button {
+li button {
     font-size: 12px;
     margin-left: 20px;
     color: #666;
-  }
+}
+
+span
+{
+    display:inline-block;
+    word-wrap: break-word;
+    width: 18em;
+}
